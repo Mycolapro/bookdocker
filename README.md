@@ -86,7 +86,6 @@ To run this project locally or deploy it in your environment, follow these steps
 
 Clone the repository: 
 ```bash
-git clone https://github.com/alwinsimon/BookMySeat.git
 ```
 
 1. Navigate to the project root directory.
@@ -105,7 +104,6 @@ It is meant to be an educational resource and a demonstration of best practices 
 
 ![GitHub](https://img.shields.io/badge/Visit%20on-GitHub-brightgreen)
 
-[https://github.com/alwinsimon/BookMySeat](https://github.com/alwinsimon/BookMySeat)
 
 
 ***Happy coding !!!*** 🚀
